@@ -1,1 +1,44 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram",
+      "dob": "1980-03-25T12:00:00Z",
+      "design": "Software Engineer",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 2,
+      "name": "Raj",
+      "dob": "1980-03-25T12:00:00Z",
+      "design": "Software Architect",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    }
+  ],
+  "hobbies": [
+    "Fishing",
+    "Gardening",
+    "Cooking",
+    "Driving",
+    "Trecking",
+    "Travelling",
+    "Singing"
+  ],
+  "news": [
+    {
+      "type": "Breaking",
+      "category": "Sports",
+      "id": 1,
+      "title": "Ind vs England",
+      "subcategory": "Cricket",
+      "description": "Ind vs England ODI cricket"
+    },
+    {
+      "category": "Politics",
+      "id": 2,
+      "title": "Karnataka Elections",
+      "subcategory": "regional",
+      "description": "Karnataka election results"
+    }
+  ]
+}
