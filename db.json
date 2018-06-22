@@ -4,15 +4,113 @@
       "id": 1,
       "name": "Ram",
       "dob": "1980-03-25T12:00:00Z",
-      "design": "Software Engineer",
+      "occupation": "Driver",
       "hobbies": ["Fishing", "Gardening", "Cooking"]
     },
     {
       "id": 2,
       "name": "Raj",
       "dob": "1980-03-25T12:00:00Z",
-      "design": "Software Architect",
+      "occupation": "Postman",
       "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 3,
+      "name": "Akshay",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Software Engineer",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 4,
+      "name": "Akash",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Carpenter",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 5,
+      "name": "Ramya",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Traffic Police",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 6,
+      "name": "Radhika",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Engineer",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 7,
+      "name": "Sowmya",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Typist",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 8,
+      "name": "Stuart",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Dancer",
+      "hobbies": ["Fishing", "Gardening", "Cooking"]
+    },
+    {
+      "id": 9,
+      "name": "Maxwell",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Cricketer",
+      "hobbies": ["Fishing"]
+    },
+    {
+      "id": 10,
+      "name": "Monica",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Teacher",
+      "hobbies": ["Fishing", "Cooking"]
+    },
+    {
+      "id": 11,
+      "name": "Jessica",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Florist",
+      "hobbies": ["Gardening", "Cooking"]
+    },
+    {
+      "id": 12,
+      "name": "David",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Police",
+      "hobbies": ["Cooking"]
+    },
+    {
+      "id": 13,
+      "name": "Rachel",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Waitress",
+      "hobbies": ["Fishing", "Gardening"]
+    },
+    {
+      "id": 14,
+      "name": "Venkat",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Actor",
+      "hobbies": ["Cooking"]
+    },
+    {
+      "id": 15,
+      "name": "Ramesh",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Chef",
+      "hobbies": ["Cooking", "Travelling"]
+    },
+    {
+      "id": 16,
+      "name": "Fernando",
+      "dob": "1980-03-25T12:00:00Z",
+      "occupation": "Fireman",
+      "hobbies": ["Fishing", "Trekking"]
     }
   ],
   "hobbies": [
@@ -20,7 +118,7 @@
     "Gardening",
     "Cooking",
     "Driving",
-    "Trecking",
+    "Trekking",
     "Travelling",
     "Singing"
   ],
@@ -40,5 +138,23 @@
       "subcategory": "regional",
       "description": "Karnataka election results"
     }
+  ],
+  "occupations": [
+    "Driver",
+    "Postman",
+    "Software Engineer",
+    "Carpenter",
+    "Traffic Police",
+    "Engineer",
+    "Typist",
+    "Dancer",
+    "Cricketer",
+    "Teacher",
+    "Florist",
+    "Police",
+    "Waitress",
+    "Actor",
+    "Chef",
+    "Fireman"
   ]
 }
